@@ -43,7 +43,7 @@ app.get('/productos/:id', (req, res) => {
 
 
 // ============================================================
-// PRÁCTICA 6: Completa los siguientes métodos de la API
+// PRÁCTICA 6: Completa los métodos de la API
 // ============================================================
 
 // POST - Crear nuevo producto
